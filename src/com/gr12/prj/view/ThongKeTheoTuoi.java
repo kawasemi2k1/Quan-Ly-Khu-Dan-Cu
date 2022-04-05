@@ -1,0 +1,180 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.gr12.prj.view;
+
+import com.gr12.prj.object.NhanKhau;
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.ChartPanel;
+import org.jfree.chart.JFreeChart;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.data.category.CategoryDataset;
+import org.jfree.data.category.DefaultCategoryDataset;
+
+/**
+ *
+ * @author APC
+ */
+public class ThongKeTheoTuoi extends javax.swing.JFrame {
+
+    /**
+     * Creates new form ThongKeTheoTuoi
+     */
+
+    ArrayList<NhanKhau> listNK = new ArrayList<>();
+
+    public String catNam(String date) {
+        String arr[] = date.split("-");
+        return arr[arr.length - 1];
+    }
+
+    public int tinhTuoi(NhanKhau s) {
+        return (2021 - Integer.parseInt(catNam(s.getSinhNhat())));
+    }
+   
+    public int[] tinhTongPhanTuMang() {
+          int arr[] = {0, 0, 0, 0, 0, 0};
+       
+        for (int i = 0; i < listNK.size(); i++) {
+            int tuoi = tinhTuoi(listNK.get(i));
+            if (0 <= tuoi && tuoi < 6) {
+                arr[0]++;
+            } else if (6 <= tuoi && tuoi < 11) {
+                arr[1]++;
+            } else if (11 <= tuoi && tuoi < 15) {
+                arr[2]++;
+            } else if (15 <= tuoi && tuoi < 18) {
+                arr[3]++;
+            } else if (18 <= tuoi && tuoi < 60) {
+                arr[4]++;
+            } else {
+                arr[5]++;
+            }
+        }
+        return arr;
+    }
+    private CategoryDataset createDataset() {
+        int arr[] = tinhTongPhanTuMang();
+        final DefaultCategoryDataset dataset = new DefaultCategoryDataset();
+        dataset.addValue(arr[0], "", "Mẫu giáo và mầm non"); // cái ở giữa thay đổi
+        dataset.addValue(arr[1], "", "Tiểu học");           // thì mỗi cái khác nhau là 1 màu, giống nhau thì cùng màu
+        dataset.addValue(arr[2], "", "Trung Học Cơ Sở");    // tuy nhiên biểu đồ bị nhỏ đi
+        dataset.addValue(arr[3], "", "Trung Học Phổ Thông");
+        dataset.addValue(arr[4], "", "Độ Tuổi Lao Động");
+        dataset.addValue(arr[5], "", "Nghỉ Hưu");
+        return dataset;
+    }
+    
+    public JFreeChart createChart() {
+        JFreeChart barChart = ChartFactory.createBarChart(
+                "BIỂU ĐỒ ĐỘ TUỔI",
+                "Lứa tuổi ", "Số người",
+                createDataset(), PlotOrientation.HORIZONTAL, false, false, false); // cái false đầu nếu chuyển thành true :là hiển thị chú thích cách phần của biểu đồ
+        return barChart;
+    }
+     public void loadFile() {
+        try {
+            BufferedReader br = null;
+            FileReader fr = null;
+            listNK = new ArrayList<>(); //lưu ý
+            fr = new FileReader("nhankhau.txt");
+            br = new BufferedReader(fr);
+            String s = null;
+
+            try {
+                while ((s = br.readLine()) != null) {
+                    //Cắt chuỗi:
+                    String arr[] = s.split("\t");
+                    //Khởi tạo
+                    NhanKhau nv = new NhanKhau();
+                    nv.setMaNK(arr[0]);
+                    nv.setSoHoKhau(arr[1]);
+                    nv.setHoTen(arr[2]);
+                    nv.setGioiTinh(arr[3]);
+                    nv.setSinhNhat(arr[4]);
+                    nv.setNoiSinh(arr[5]);
+                    nv.setNguyenQuan(arr[6]);
+                    nv.setDanToc(arr[7]);
+                    nv.setNgheNghiep(arr[8]);
+                    nv.setNoiLamViec(arr[9]);
+                    nv.setSoCMND(arr[10]);
+                    nv.setNgayNoiCapCMND(arr[11]);
+                    nv.setThoiGianDKThuongTru(arr[12]);
+                    nv.setDiaChiTruoc(arr[13]);
+                    nv.setQuanHeVoiChuHo(arr[14]);
+                    nv.setGhiChu(arr[15]);
+
+                    listNK.add(nv);
+                }
+            } catch (IOException ex) {
+                // Logger.getLogger(frmNhanVienTemplate.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        } catch (FileNotFoundException ex) {
+            //  Logger.getLogger(frmNhanVienTemplate.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+    }
+    public ThongKeTheoTuoi() {
+        setTitle("Thống Kê Theo Tuổi");
+        loadFile();
+        initComponents();
+        ChartPanel chartPanel = new ChartPanel(createChart());
+        chartPanel.setPreferredSize(new java.awt.Dimension(560, 367));
+        jcontent.add(chartPanel);
+        jcontent.setVisible(true);
+        //frmNK.setVisible(false);
+        //jcontent.setSize(WIDTH, WIDTH);
+    }
+
+    /**
+     * This method is called from within the constructor to initialize the form.
+     * WARNING: Do NOT modify this code. The content of this method is always
+     * regenerated by the Form Editor.
+     */
+    @SuppressWarnings("unchecked")
+    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    private void initComponents() {
+
+        jPanel1 = new javax.swing.JPanel();
+        jcontent = new javax.swing.JTabbedPane();
+
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+
+        javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
+        jPanel1.setLayout(jPanel1Layout);
+        jPanel1Layout.setHorizontalGroup(
+            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jcontent, javax.swing.GroupLayout.DEFAULT_SIZE, 1042, Short.MAX_VALUE)
+        );
+        jPanel1Layout.setVerticalGroup(
+            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jcontent, javax.swing.GroupLayout.DEFAULT_SIZE, 801, Short.MAX_VALUE)
+        );
+
+        javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
+        getContentPane().setLayout(layout);
+        layout.setHorizontalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+        );
+        layout.setVerticalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+        );
+
+        pack();
+    }// </editor-fold>//GEN-END:initComponents
+
+
+    // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JPanel jPanel1;
+    private javax.swing.JTabbedPane jcontent;
+    // End of variables declaration//GEN-END:variables
+}

@@ -1,0 +1,171 @@
+1	Nguyễn Thùy Linh	Số 19A ngõ 479/29 Bách Khoa
+2	Lê Văn Duẩn	Số 28 Minh Khai
+3	Phạm Đức Huy	Số 18, ngõ 27 Đại La
+4	Lê Thị Minh Tâm	Số 20, ngõ 45/20 Tạ Quang Bửu
+5	Nguyễn Bá Trọng	Số 197, ngõ 30 Minh Khai
+6	Phạm Minh Đức	Số 44 Lê Thanh Nghị
+7	Đỗ Minh Hiếu	Số 134 Giải Phóng
+8	Đinh Việt Long	Số 23, ngõ 40 Minh Khai
+9	Nguyễn Bảo Hưng	Số 150, ngõ 49 Đại La
+10	Nguyễn Thùy Linh	số 45 Minh Khai
+11	Nguyễn Hùng Mạnh	Số 17a ngõ 38 Minh Khai, phường Bách Khoa
+12	Trúc Anh Đài	Số 98 Minh Khai, phường Bách Khoa
+13	Lương Sơn Bá	Số 80 ngõ 4 dốc Thọ Dão Minh Khai, phường Bách Khoa
+14	Lê Văn Vương	SỐ 8 ngõ Hòa Bình 6 Minh Khai, phường Bách Khoa
+15	Trúc Hồng Sơn	Số 57 đường Giải Phóng, Hai Bà Trưng
+16	Mai Linh	Số 70A đường Giải Phóng, Hai Bà Trưng
+17	Hai Bà Trưng	đường Giải Phóng, Tô Hoàng
+18	Lê Quang Hiếu	Số 78 ngách 2 đường Giải Phóng, Hai Bà Trưng
+19	Nguyễn Thanh Thủy	Số 80 ngõ 15A đê Tô Hoàng
+20	Lê Minh Đức	Số 190 đường Đại Cồ Việt
+21	Hoàng Văn Hiển	Số 93 ngõ 6 đường Đại Cồ Việt
+22	Nguyễn Hoàng Anh	Số 83 ngõ Hòa Bình 5, Minh Khai
+23	Lê Thanh Thúy	Số 18A ngõ Hòa Bình 5, Minh Khai
+24	Trần Anh Tú	Số 19B ngõ Hòa Bình 4, Minh Khai
+25	Trần Phương Nam	Số 80 ngách 34 gốc Đề, Minh Khai
+26	Nguyễn Hoàng Nam	Số 121 gốc Đề, Minh Khai
+27	Nguyễn Thanh Hương	Số 19A ngõ 479 gốc Đề, Minh Khai
+28	Trần Quang Đại	Số 09 ngách 3 ngõ Hòa Bình 3, Minh Khai
+29	Nguyễn Hải Sơn	Số 75C ngõ Hòa Bình 3, Minh Khai
+30	Lê Minh Toàn	Số 109A đường Giải Phóng
+31	Lê Việt Hùng	Số 17A Ô Chợ Dừa, Xã Đàn
+32	Nguyễn Đức Thắng	Số 98B Ô Chợ Dừa, Xã Đàn
+33	Nguyễn Hải Lý	Số 07 ngách 24 Bạch Mai
+34	Lê Thảo Tâm	Số 89 ngách 24 Bạch Mai
+35	Nguyễn Văn Hải	Số 154B ngõ 4A Đại La
+61	Lê Văn Duẩn	38 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+62	Lê Văn Phúc	18 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+63	Lê Thị Kim Chi	281 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+64	Lê Xuân Quyền	29 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+65	Lê Thị Tình	39 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+66	Lê Văn Quý	24 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+67	Lê Thị Thảo	56 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+68	Lê Thị Thoát	23 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+69	Lê Văn Hùng	69 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+70	Lê Thị Việt Hương	234 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+71	Lê Việt Cường	19 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+72	Lê Thị Tú	34 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+73	Lê Văn Tân	98 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+74	Lê Thương Tâm	36 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+75	Lê Trọng Sơn	90 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+76	Lê Quang Quân	03 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+77	Nguyễn Thị Thể	29 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+78	Nguyễn Đào Dung	78 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+79	Lê Quý Chương 	85 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+80	Lê Thị Lài	08 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+81	Lê Thị Thủy	32 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+82	Lê Văn Hiến 	34 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+83	Lê Văn Thành	89 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+84	Lê Thị Thanh 	37 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+85	Lê Phú Quốc	30 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+86	Lê Văn Táo	90 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+87	Lê Cứu Quốc	17 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+88	Lê Văn Chung	96 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+89	Lê Đức Bo	84 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+90	Lê Thị Thúy Diễm	10 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+91	Nguyễn Hữu Đa	11 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+92	Nguyễn Thị Phương Thanh	28 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+93	Nguyễn Cao Minh	224 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+94	Nguyễn Thanh Minh	20 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+95	Nguyễn Ngọc Ngạn	90 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+96	Nguyễn Thái Thực	27 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+97	Nguyễn Ngọc Cao Qúy	26 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+98	Nguyễn Thế Anh	92 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+99	Nguyễn Đức Anh 	78 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+100	Bùi Văn Tùng 	27 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+101	Bùi Thị Đậm 	27 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+102	Bùi Quang Thụy	29 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+103	Bùi Văn Anh	97 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+104	Bùi Thành Đạt	87 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+105	Bùi Chung Hùng	451 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+106	Bùi Quang Anh	75 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+107	Bùi Ngọc Quyên	83 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+108	Bùi Thị Quỳnh	99 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+109	Bùi Quang Học	82 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+110	Bùi Đại Gia	100 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+111	Phạm Lê Quý Bửu	234 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+112	Phạm Thành Chung	93 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+113	Phạm Đức Huy	69 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+114	Phạm Quang Đức	27 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+115	Phạm Thống Trị	99 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+116	Phạm Đỉnh Cao	72 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+117	Phạm Trọng Tội 	28 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+119	Trương Mì Hảo	29 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+120	Tống Văn Thành	5 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+118	Đào Nhập Ngũ	234 ạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Thành phố Hà Nội
+181	Trần Cao Nghĩa	12 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+182	Trịnh Quốc Khang	41 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+183	Phạm Việt Cường	71 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+184	Nguyễn Duy Thành	22 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+185	Đinh Gia Lộc	5 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+186	Nguyễn Ngọc Khoa	70 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+187	Tô Đình Tuân	21 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+188	Lê Hoàng Anh	7 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+189	Trương Minh Trường	14 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+190	Lý Thành Nam	35 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+191	Trần Quốc Bảo	22 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+192	Vũ Đức Tân	22 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+193	Lê Anh Việt	5 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+194	Đỗ Đức Thiện	6 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+195	Nguyễn Huy Bá	7 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+196	Ngô Đức Long	14 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà trưng, Hà Nội
+197	Hoàng Gia Anh	9 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà trưng, Hà Nội
+198	Ngô Đình Long	10 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+199	Phan Mạnh Tuấn	19 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+200	Đinh Vĩnh Toàn	33 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+201	Tô Bình Gia Minh	57 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+202	Đào Bảo Khương	61 Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+203	Nguyễn Quang Sang	77 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+204	Bùi Hoàng Dũng	44 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+241	Phạm Văn Tiến 	47 ngõ 12 Lê Thanh Nghị
+242	Khúc Thanh Hùng	12a ngách 7 ngõ 15 Chợ Mơ
+243	Tạ Biên Cương	7 ngách 15 ngõ 32 Trần Đại Nghĩa
+244	Nguyễn Tiến Huy	89 Trần Đại Nghĩa
+245	Hồ Văn Cường	115 Lê Thanh Nghị
+246	Phạm Thanh Huy	15 ngõ 48 Bạch Mai
+247	Lý Văn Thắng	17 ngõ 1 Trần Đại Nghĩa
+248	Lê Văn Tứ	4 Tạ Quang Bửu
+249	Đào Anh Duy	15 ngõ 30 Tạ Quang Bửu
+250	Nguyễn Thành Nam	23a ngõ 49 Lê Thanh Nghị
+251	Phạm Bá Ngọc	9 ngõ 15 Trương Hán Siêu
+252	Phạm Hồng Phúc	15a ngõ 11 Trần Đại Nghĩa
+253	Hà Đăng Hưng	27 Trần Đại Nghĩa
+254	Ngô Gia Bảo	38 Tạ Quang Bửu
+255	Phạm Đắc Hùng	45 Lê Thanh Nghị
+256	Phạm Đắc Hưng	4a ngõ 7 khu E Chợ Mơ
+257	Đinh Văn Long	37a Trần Đại Nghĩa
+258	Phí Quang Nam	47 Trương Hán Siêu
+259	Ngô Bảo Châu	34 Đoàn Thị Điểm
+260	Giang Văn Đức	28 Đại Cồ Việt
+121	Phan Mạnh Quỳnh	1 Nguyễn Hiền, phường Bách khoa, quận Hai Bà Trưng,Hà Nội
+122	Đỗ Đức Tài Anh	2 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+123	Đỗ Duy Mạnh	3 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+124	Đỗ Hùng Dũng	5 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+125	Nguyễn Quang Hải	6 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+126	Bùi Tiến Dũng	9 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+127	Đoàn Văn Hậu	10 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+128	Hà Đức Chinh	11 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+129	Nguyễn Công Phượng	13 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+130	Uông Việt Anh	15 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+131	Nguyễn Văn Toàn	16 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+132	Quế Ngọc Hải	18 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+133	Phạm Nhật Vượng	19 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+134	Ngô Bá Khá	20 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+135	Đỗ Danh Minh	21 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+136	Bùi Quang Dương	23 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+137	Nguyễn Hữu Huân	25 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+138	Nguyễn Trung Kiên	26 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+139	Nguyễn Trung Hiếu	28 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+140	Uông Tuấn Anh	29 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+141	Nguyễn Quang Minh	30 Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+142	Nguyễn Trọng Hoàng	1 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+143	Nguyễn Thành Chung	2 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+144	Nguyễn Gia Lâm	3 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+145	Trần Đại Nghĩa	5 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+146	Nguyễn Trần Trung Quân	6 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+147	Phan Văn Đức	8 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+148	Lương Xuân Trường	9 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+149	Vũ Văn Thanh	10 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+150	Nguyễn Thanh Tùng	11 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+151	Nguyễn Quang Sáng	12 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội
+2000	Nguyễn Hoàng Anh	fvsbs

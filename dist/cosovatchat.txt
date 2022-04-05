@@ -1,0 +1,20 @@
+Loa cỡ lớn	oke	2	không
+Loa cỡ nhỏ	oke	6	không
+Bàn	oke	30	không
+Ghế	oke	100	không
+Bục phát biểu	oke	1	không
+Vòng hoa lớn	oke	4	không
+Vòng hoa nhỏ	oke	40	trên mỗi bàn được đặt 2 vòng
+Bình hoa lớn	đã vỡ	1	cần bên tạp vụ mua lại bình mới
+tượng Bác Hồ	oke	1	cần sơn lại 
+Chữ "Nhà văn hóa khối 12"	oke	3	không
+Mic (cho đại biểu)	oke	10	vệ sinh hằng ngày
+Mic (cho dân)	oke	50	vệ sinh hằng ngày
+Tài liệu 	tuyệt mật	1	cất trong tủ bảo quản kĩ càng
+Thảm lót nhung	oke	2	không
+Bình nước chung	oke	4	không
+Rèm che cửa chính	oke	4	không
+Rèm che cửa sổ	oke	8	không
+Bút	oke	100	không
+Giày biểu diễn văn nghệ	oke	100	không
+Điều hòa	oke	4	không
